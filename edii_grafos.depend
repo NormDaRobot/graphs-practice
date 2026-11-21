@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1751906584 source:c:\users\usuario001\desktop\programacion\uni\edii_grafos\main.cpp
+	<iostream>
+	<cstdlib>
+	"grafo.h"
+	"conjunto.h"
+	<queue>
+	<sstream>
+	<map>
+
+1751453355 c:\users\usuario001\desktop\programacion\uni\edii_grafos\grafo.h
+	"vertice.h"
+	"arista.h"
+	"conjunto.h"
+	"excep_grafo.h"
+	<map>
+
+1751453355 c:\users\usuario001\desktop\programacion\uni\edii_grafos\vertice.h
+
+1751453355 c:\users\usuario001\desktop\programacion\uni\edii_grafos\arista.h
+	"vertice.h"
+
+1751453355 c:\users\usuario001\desktop\programacion\uni\edii_grafos\conjunto.h
+	"excep_conjunto.h"
+	<memory>
+
+1751453355 c:\users\usuario001\desktop\programacion\uni\edii_grafos\excep_conjunto.h
+	"excepcion.h"
+
+1751453355 c:\users\usuario001\desktop\programacion\uni\edii_grafos\excepcion.h
+	<string>
+	<stdexcept>
+
+1751453355 c:\users\usuario001\desktop\programacion\uni\edii_grafos\excep_grafo.h
+	"excepcion.h"
+
